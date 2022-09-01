@@ -1,2 +1,2 @@
 #!/bin/bash
-chowd 744 hello
+chomd u+x hello
