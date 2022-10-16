@@ -1,1 +1,1 @@
-1-listit
+0x00. Shell, basics
