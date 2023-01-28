@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# Displays the PID and name of processes whose name contain 'bash'
-pgrep -flx ".*bash.*"
+# displays the PID, along with the process name, of processes
+# whose name contain the word bash
+
+pgrep -l bash
